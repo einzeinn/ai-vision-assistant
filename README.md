@@ -21,6 +21,8 @@ AI Vision Assistant is a real-time scene analysis application that combines YOLO
 * A webcam
 * [Google Gemini API key](https://aistudio.google.com) — free tier available, no credit card required
 
+![Demo Screenshot](demo.png)
+
 ## Installation
 Clone the repository:
 ```
